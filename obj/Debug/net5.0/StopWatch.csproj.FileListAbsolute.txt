@@ -1,0 +1,16 @@
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\bin\Debug\net5.0\StopWatch.exe
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\bin\Debug\net5.0\StopWatch.deps.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.dev.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\bin\Debug\net5.0\StopWatch.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\bin\Debug\net5.0\ref\StopWatch.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\bin\Debug\net5.0\StopWatch.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\obj\Debug\net5.0\StopWatch.csproj.AssemblyReference.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\obj\Debug\net5.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfo.cs
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\obj\Debug\net5.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\obj\Debug\net5.0\StopWatch.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\obj\Debug\net5.0\ref\StopWatch.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\obj\Debug\net5.0\StopWatch.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\StopWatch\obj\Debug\net5.0\StopWatch.genruntimeconfig.cache
